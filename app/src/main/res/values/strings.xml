@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">brybz</string>
+    <string name="app_name">Dairy Farm Manager</string>
     <string name="phone">Phone</string>
     <string name="submit">Submit</string>
     <string name="name">Name</string>
@@ -12,4 +12,8 @@
     <string name="fish_farming">fish farming</string>
     <string name="maize_farming">maize farming</string>
     <string name="farming_type">Farming type</string>
+    <string name="success">SUCCESS!!</string>
+    <string name="notice">Your question has been submitted.</string>
+    <string name="location">Enter your Location</string>
+    <string name="welcome">Hello! Welcome to your Dairy farm manager</string>
 </resources>
