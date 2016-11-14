@@ -8,5 +8,7 @@
 <ImageView
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:src="@drawable/farm"/>
+    android:src="@drawable/farm"
+    android:id="@+id/splashimage"
+    tools:ignore="ContentDescription" />
 </RelativeLayout>
