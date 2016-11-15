@@ -16,4 +16,6 @@
     <string name="notice">Your question has been submitted.</string>
     <string name="location">Enter your Location</string>
     <string name="welcome">Hello! Welcome to your Dairy farm manager</string>
+    <string name="loading">Loading. . .</string>
+    <string name="image">Farm image</string>
 </resources>
