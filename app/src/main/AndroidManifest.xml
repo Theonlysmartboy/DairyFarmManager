@@ -5,8 +5,7 @@
     <supports-screens
         android:largeScreens="true"
         android:normalScreens="true"
-        android:smallScreens="true"
-        android:xlargeScreens="true" />
+        android:smallScreens="true" />
     <uses-permission android:name="android.permission.SEND_SMS" />
     <application
         android:allowBackup="true"
@@ -22,7 +21,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".second" />
-        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".MainActivity"/>
     </application>
 
 </manifest>
