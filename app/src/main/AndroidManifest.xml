@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.brybz.farmhub">
+    <!--Supprt for all screen sizes-->
+    <supports-screens
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
     <uses-permission android:name="android.permission.SEND_SMS" />
     <application
         android:allowBackup="true"
